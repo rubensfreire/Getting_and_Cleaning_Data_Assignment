@@ -1,13 +1,12 @@
 
-########################################
 Getting_and_Cleaning_Data_Assignment
 Name: CodeBook.md
 Author: Rubens Freire Rosa
 Date: December,08th 2016
-#######################################
 
-# This codebook describes variables and results obtained in the allset_tidy.txt. See README.md file to generate this file
-# X, Y and Z directions for the following signals
+
+## This codebook describes variables and results obtained in the allset_tidy.txt. See README.md file to run script. 
+X, Y and Z directions for the following signals
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
