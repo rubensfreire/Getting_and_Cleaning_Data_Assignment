@@ -78,7 +78,7 @@ run_analysis<-function(){
         
         # Final Tidy set with mean per subject and activity
         allset_tidy<-cbind(activity_names,allsetw)
-        write.table(allset_tidy,"allset_tidy.txt")
+        write.table(allset_tidy,"allset_tidy.txt",row.name=FALSE)
 }
 
 
