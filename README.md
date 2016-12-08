@@ -1,6 +1,13 @@
-##Final Assignment for Getting and Cleaning Data Project 
+#######################################
+Getting_and_Cleaning_Data_Assignment
+Name: README.md
+Author: Rubens Freire Rosa
+Date: December,08th 2016
+#######################################
 
-#1- This script Performs the following steps 
+#Final Assignment for Getting and Cleaning Data Project 
+
+##1- This script Performs the following steps 
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -8,7 +15,9 @@
 - Appropriately labels the data set with descriptive variable names.
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-2- It generates the final tidy "allset_tidy.txt" file in current directory
+##2- How to use it: source the file run_alalysis.R
+
+##3- It generates the final tidy "allset_tidy.txt" file in current directory
 
 "Unzipping": 
 "Reading Features file"
