@@ -2,7 +2,7 @@
 Getting_and_Cleaning_Data_Assignment
 Name: CodeBook.md
 Author: Rubens Freire Rosa
-Date: December,08th 2016
+Date: December,08th 2016 
 
 
 ## This codebook describes variables and results obtained in the allset_tidy.txt. See README.md file to run script. 

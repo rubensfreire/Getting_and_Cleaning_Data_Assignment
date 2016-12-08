@@ -2,7 +2,7 @@
 Getting_and_Cleaning_Data_Assignment
 Name: README.md
 Author: Rubens Freire Rosa
-Date: December,08th 2016
+Date: December,08th 2016 
 #######################################
 
 #Final Assignment for Getting and Cleaning Data Project 
