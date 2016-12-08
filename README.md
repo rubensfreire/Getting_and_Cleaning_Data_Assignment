@@ -7,7 +7,7 @@ Date: December,08th 2016
 
 #Final Assignment for Getting and Cleaning Data Project 
 
-##1- This script Performs the following steps 
+##1- This script Performs the following
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -19,10 +19,10 @@ Date: December,08th 2016
 - source the file run_alalysis.R
 - execute the function run_analysis()
 - Final result is a tidy "allset_tidy.txt" file in same directory the function was executed
-- It requires local "UCI HAR Dataset.zip" file or Internet to download file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+- run_alalysis.R R script requires local "UCI HAR Dataset.zip" file or Internet to download file from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-##2- Step bu step
-1- "Get and Unzip files": 
+##2- Steps performed by run_alalysis.R code
+1- "Get and Unzip files":
 2- "Read Features file"
 3- "Group variables from X_train X_test Y_test and subject_test to single data frame:alltestset "
 4- "Read and prepairs train data"

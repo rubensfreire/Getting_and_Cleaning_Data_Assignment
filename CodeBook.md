@@ -28,13 +28,13 @@ fBodyGyroJerkMag
 The set of variables that were estimated from these signals are: 
 
 mean(): Mean value
+
 std(): Standard deviation
+
 activity_names WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
 subject: individuals number 1 to 30                 
 activity activity number 1 to 6, indicating the respective activity_names WALKING WALKING_UPSTAIRS WALKING_DOWNSTAIRS SITTING STANDING LAYING
 
-
-'data.frame':	180 obs. of  82 variables:
  $ activity_names               
  $ subject                       
  $ activity                      
