@@ -1,5 +1,17 @@
-library(dplyr)
-library(reshape2)
+
+# #######################################
+# Getting_and_Cleaning_Data_Assignment
+# Name: run_alalysis.R
+# Author: Rubens Freire Rosa
+# Date: December,08th 2016
+# #######################################
+
+# Need packages, install and/or attach
+if (!require("dplyr")) install.packages("dplyr")
+if (!require("reshape2")) install.packages("reshape2")
+if (!require("data.table")) install.packages("data.table")
+
+
 # Open File, if needed download and unzip it
 file <- "UCI HAR Dataset.zip"
 if (!file.exists(file)) {
