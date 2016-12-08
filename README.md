@@ -1,6 +1,6 @@
-Final Assignment for Getting and Cleaning Data Project 
+##Final Assignment for Getting and Cleaning Data Project 
 
-1- This script Performs the following steps 
+#1- This script Performs the following steps 
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -23,4 +23,4 @@ Final Assignment for Getting and Cleaning Data Project
 "Melting to subject and activity"
 "Dcasting applying mean to subject + activity"
 "Reapplying activity labels and creating final tidy data set"
-> 
+
